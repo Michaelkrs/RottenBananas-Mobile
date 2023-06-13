@@ -1,0 +1,32 @@
+{
+  "name": "fsjs-p3-v1-c1-michaelkrs",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11150409&assignment_repo_type=AssignmentRepo)\r # P3-Challenge-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H8-P3-S1/fsjs-p3-v1-c1-Michaelkrs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H8-P3-S1/fsjs-p3-v1-c1-Michaelkrs/issues"
+  },
+  "homepage": "https://github.com/H8-P3-S1/fsjs-p3-v1-c1-Michaelkrs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "json-server": "^0.17.3",
+    "pg": "^8.11.0",
+    "sequelize": "^6.31.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.0"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Mission: Impossible Dead Reckoning Part 1",
+    "slug": "mission-impossible-dead-reckoning-part-1",
+    "synopsis": "Ethan Hunt and the IMF team must track down a terrifying new weapon that threatens all of humanity if it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.",
+    "trailerUrl": "https://www.youtube.com/watch?v=avz06PDqDbM",
+    "imgUrl": "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/mission-impossible-7/images/regions/us/onesheet.jpg",
+    "rating": 86,
+    "genreId": 1,
+    "authorId": "647481c60bb0889e7ce4d3dd"
+  },
+  {
+    "title": "OPPENHEIMER",
+    "slug": "oppenheimer",
+    "synopsis": "Physicist J Robert Oppenheimer works with a team of scientists during the Manhattan Project, leading to the development of the atomic bomb.",
+    "trailerUrl": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDEzNDdjYTctNjA4ZS00ZDgzLTkxNmUtMTQwMzUyMmFhMWRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "rating": 86,
+    "genreId": 4,
+    "authorId": "647481c60bb0889e7ce4d3dd"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "slug": "top-gun-maverick",
+    "synopsis": "After more than 30 years of service as one of the Navy's top aviators, Pete \"Maverick\" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.",
+    "trailerUrl": "https://www.youtube.com/watch?v=g4U4BQW9OEk",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "rating": 86,
+    "genreId": 1,
+    "authorId": "647481c60bb0889e7ce4d3dd"
+  },
+  {
+    "title": "Bullet Train",
+    "slug": "bullet-train",
+    "synopsis": "Ladybug, a professional assassin, is assigned to retrieve a briefcase from a bullet train. Soon, he finds himself battling many other killers who board the same train but with a different objective.",
+    "trailerUrl": "https://www.youtube.com/watch?v=rb37YwcqtiE",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlfTsJIEpggkIgOwR-CZNsHfGU8l6irrrVVAYJpzDFQlj5zioC",
+    "rating": 86,
+    "genreId": 3,
+    "authorId": "647481c60bb0889e7ce4d3dd"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "slug": "captain-america-the-winter-soldier",
+    "synopsis": "As Steve Rogers adapts to the complexities of a contemporary world, he joins Natasha Romanoff and Sam Wilson in his mission to uncover the secret behind a deadly, mysterious assassin.",
+    "trailerUrl": "https://www.youtube.com/watch?v=7SlILk2WMTI",
+    "imgUrl": "https://www.movienewsletters.net/photos/181326R1.jpg",
+    "rating": 86,
+    "genreId": 1,
+    "authorId": "647481c60bb0889e7ce4d3dd"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "slug": "inglorious-basterds",
+    "synopsis": "A few Jewish soldiers are on an undercover mission to bring down the Nazi government and put an end to the war. Meanwhile, a woman wants to avenge the death of her family from a German officer.",
+    "trailerUrl": "https://www.youtube.com/watch?v=KnrRy6kSFF0",
+    "imgUrl": "https://i.ebayimg.com/images/g/EHgAAOSwoudW7aI~/s-l1600.jpg",
+    "rating": 86,
+    "genreId": 1,
+    "authorId": "647481c60bb0889e7ce4d3dd"
+  }
+]

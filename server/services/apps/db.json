@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "role": "admin",
+      "phoneNumber": "921-998-3918",
+      "address": "99 Elgar Plaza"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "phoneNumber": "321-990-3602",
+      "address": "2968 Macpherson Street"
+    },
+    {
+      "id": 3,
+      "username": "jdur2",
+      "email": "gnix2@telegraph.co.uk",
+      "password": "wbbUuhRzgG",
+      "role": "user",
+      "phoneNumber": "684-637-7218",
+      "address": "90706 Cordelia Place"
+    },
+    {
+      "id": 4,
+      "username": "mandriessen3",
+      "email": "msewart3@ibm.com",
+      "password": "IWGh36HKMZJ0",
+      "role": "user",
+      "phoneNumber": "857-314-8995",
+      "address": "20 Goodland Alley"
+    },
+    {
+      "id": 5,
+      "username": "mcowndley4",
+      "email": "gbeauchop4@soup.io",
+      "password": "1x7eL9FlqS",
+      "role": "admin",
+      "phoneNumber": "828-697-1400",
+      "address": "2 Kipling Pass"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Captain America: The Winter Soldier",
+      "slug": "captain-america-the-winter-soldier-1",
+      "synopsis": "As Steve Rogers adapts to the complexities of a contemporary world, he joins Natasha Romanoff and Sam Wilson in his mission to uncover the secret behind a deadly, mysterious assassin.",
+      "trailerUrl": "https://www.youtube.com/watch?v=7SlILk2WMTI&pp=ygUZY2FwdGFpbiBhbWVyaWNhIDIgdHJhaWxlcg%3D%3D",
+      "imgUrl": "https://www.movienewsletters.net/photos/181326R1.jpg",
+      "rating": 86,
+      "genreId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Shrek",
+      "slug": "shrek-2",
+      "synopsis": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+      "trailerUrl": "https://www.youtube.com/watch?v=CwXOrWvPBPk&pp=ygUNc2hyZWsgdHJhaWxlcg%3D%3D",
+      "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnvRBJ9yORH2QcFIrBNn_t7O9_RvQyW5U-lqEzw9vr9mhLanMj",
+      "rating": 100,
+      "genreId": 2,
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "The Incredibles",
+      "slug": "the-incredibles-3",
+      "synopsis": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+      "trailerUrl": "https://www.youtube.com/watch?v=-UaGUdNJdRQ&pp=ygUTaW5jcmVkaWJsZXMgdHJhaWxlcg%3D%3D",
+      "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkuu8Al5YSdfpFDiAOG0WZ7fAsPvIgyVE0aT29sLfz-H23Hs_k",
+      "rating": 91,
+      "genreId": 1,
+      "authorId": 3
+    },
+    {
+      "id": 4,
+      "title": "American Psycho",
+      "slug": "american-psycho-4",
+      "synopsis": "Patrick Bateman, a wealthy investment banker, hides his psychopathic ego from his friends. Later, his illogical fantasies escalate and he submits to an uncontrollable bloodlust.",
+      "trailerUrl": "https://www.youtube.com/watch?v=5YnGhW4UEhc&pp=ygUXYW1lcmljYW4gcHN5Y2hvIHRyYWlsZXI%3D",
+      "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJkc5QBoCplF1PKcJyX4Ag0tfDuoXBbolfkYDfCYGGaeYNpXtc",
+      "rating": 90,
+      "genreId": 5,
+      "authorId": 4
+    },
+    {
+      "id": 5,
+      "title": "Catch Me If You Can",
+      "slug": "catch-me-if-you-can-5",
+      "synopsis": "Notorious con artist Frank Abagnale has duped people worth millions of dollars with his masterful art of deception. With his scams getting bolder, he is soon pursued by FBI agent Carl Hanratty.",
+      "trailerUrl": "https://www.youtube.com/watch?v=s-7pyIxz8Qg&pp=ygUbY2F0Y2ggbWUgaWYgeW91IGNhbiB0cmFpbGVy",
+      "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ-oPRFIZB7LqiZklEK1KrQLUQm45t0An1MOnuq7Saexhbf10v",
+      "rating": 85,
+      "genreId": 4,
+      "authorId": 5
+    },
+    {
+      "title": "John Wick",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
+      "genreId": "1",
+      "synopsis": "John Wick, a retired hitman, is forced to return to his old ways after a group of Russian gangsters steal his car and kill a puppy gifted to him by his late wife.",
+      "id": 6
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 3,
+      "name": "Comedy"
+    },
+    {
+      "id": 4,
+      "name": "Drama"
+    },
+    {
+      "id": 5,
+      "name": "Thriller"
+    }
+  ],
+  "casts": [
+    {
+      "id": 1,
+      "movieId": 5,
+      "name": "Leonardo DiCaprio",
+      "profilePict": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQo97nXyDcbUsidd1gAPSai3VFstYgzsXdcrjjITgOEZXJJ13olLNBwVQm_qW8Dv0xjsCA91iNCctERycw"
+    },
+    {
+      "id": 2,
+      "movieId": 4,
+      "name": "Christian Bale",
+      "profilePict": "https://flxt.tmsimg.com/assets/12441_v9_bb.jpg"
+    },
+    {
+      "id": 3,
+      "movieId": 1,
+      "name": "Chris Evans",
+      "profilePict": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rottentomatoes.com%2Fcelebrity%2Fchris_evans&psig=AOvVaw3hhp5deBP1f08q-C90jdKJ&ust=1684218847485000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDjtKLa9v4CFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "name": "Mike Myers",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTY0MTM1MTM5Nl5BMl5BanBnXkFtZTcwNzA1OTM3MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 5,
+      "movieId": 3,
+      "name": "Samuel L. Jackson",
+      "profilePict": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-648731684.jpg"
+    }
+  ]
+}
