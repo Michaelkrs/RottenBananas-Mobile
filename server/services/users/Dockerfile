@@ -1,10 +1,6 @@
 # based image yang akan digunakan
 FROM node:18.14
 
-ENV MONGODB=mongodb+srv://mikekrs:awLZaOb41w2iblP4@michaelkrs.26lcxf8.mongodb.net/
-ENV NODE_ENV=production
-ENV PORT=4001
-
 # path di container dimana berisi codingan kita (path bebas sesuai kesepakatan bersama)
 WORKDIR /users
 
